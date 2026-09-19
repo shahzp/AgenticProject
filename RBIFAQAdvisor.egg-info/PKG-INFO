@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: RBIFAQAdvisor
+Version: 0.1.0
+Summary: An advanced LCEL application
+Requires-Python: >=3.10
+Requires-Dist: langchain>=0.3.25
+Requires-Dist: langchain-groq>=0.3.2
+Requires-Dist: langchain-core>=0.3.0
+Requires-Dist: python-dotenv>=1.0.0
