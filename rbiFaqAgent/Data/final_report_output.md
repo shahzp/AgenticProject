@@ -1,8 +1,8 @@
+
+
+<!-- PDF BATCH 1-5 -->
+
 <!-- image -->
-
-Reserve Bank of India
-
-## REPORT ON TREND AND PROGRESS OF BANKING IN INDIA 2024-25
 
 Report on Trend and Progress of Banking in India for the year ended March 31, 2025 submitted to the Central Government in terms of Section 36(2) of the Banking Regulation Act, 1949
 
@@ -20,31 +20,13 @@ Published by Shri Binod B. Bhoi for the Reserve Bank of India, Mumbai 400 001 an
 
 <!-- image -->
 
-## Hda Ryd ach RESERVE BANK OF INDIA
-
-www.rbi.org.in
-
-## xybl GOVERNOR
-
-## LETTER OF TRANSMITTAL
-
-CO.DEPR.BRD.No.S808 /13.01.001/2025-26
-
-The Secretary Department of Financial Services Ministry of Finance Government of India New Delhi – 110 001
-
-Dear r Secretary,
-
-In pursuance of the provisions of Section 36(2) of the Banking Regulation Act, 1949, I have pleasure in transmitting herewith two copies of the Report on Trend and Progress of Banking in India for the year ended March 31, 2025.
-
-Sincerely,
-
-SanjayMalhotra
-
 <!-- image -->
 
 <!-- image -->
 
-December 29, 2025 8 Pausha 1947 (Saka)
+
+
+<!-- PDF BATCH 6-10 -->
 
 ## Contents
 
@@ -157,6 +139,10 @@ December 29, 2025 8 Pausha 1947 (Saka)
 ## Sr. No. Particulars Page No.
 
 IV.29 Tier-wise Distribution of Newly Opened Bank Branches of SCBs ............................ 86 IV.30 Progress in MSME Financing through TReDS ......................................................... 88 IV.31 Consolidated Balance Sheet of Regional Rural Banks ............................................. 89 IV.32 Financial Performance of Regional Rural Banks ...................................................... 89 IV.33 Purpose-wise Outstanding Advances by Regional Rural Banks ................................ 91 IV.34 Profile of Local Area Banks ..................................................................................... 91 IV.35 Financial Performance of Local Area Banks ............................................................ 91 IV.36 Consolidated Balance Sheet of Small Finance Banks .............................................. 92 IV.37 Financial Performance of Small Finance Banks ...................................................... 92 IV.38 Consolidated Balance Sheet of Payments Banks ..................................................... 93 IV.39 Financial Performance of Payments Banks .............................................................. 93 V.1 Tier-wise Distribution of Urban Co-operative Banks ............................................... 98 V.2 Balance Sheet of Urban Co-operative Banks ........................................................... 98 V.3 Investments by Urban Co-operative Banks .............................................................. 100 V.4 Distribution of UCBs by Size of Deposits, Advances and Assets .............................. 101 V.5 Financial Performance of Scheduled and Non-scheduled Urban Co-operative Banks 101 V.6 Select Profitability Indicators of UCBs ..................................................................... 102 V.7 CRAR-wise Distribution of UCBs ............................................................................. 102 V.8 Component-wise Capital Adequacy of UCBs ............................................................ 103 V.9 Non-Performing Assets of UCBs .............................................................................. 104 V.10 Composition of Credit to Priority Sectors by UCBs ................................................. 105 V.11 Share in Credit Flow to Agriculture ......................................................................... 106 V.12 A Profile of Rural Co-operatives .............................................................................. 106 V.13 Liabilities and Assets of State Co-operative Banks .................................................. 108 V.14 Select Balance Sheet Indicators of Scheduled State Co-operative Banks ................. 109 V.15 Financial Performance of State Co-operative Banks ................................................ 109 V.16 Soundness Indicators of State Co-operative Banks ................................................. 110 V.17 Liabilities and Assets of District Central Co-operative Banks .................................. 111 V.18 Financial Performance of District Central Co-operative Banks ................................ 111 V.19 Soundness Indicators of District Central Co-operative Banks ................................. 112
+
+
+
+<!-- PDF BATCH 11-15 -->
 
 ## Sr. No. Particulars Page No.
 
@@ -307,6 +293,10 @@ IV.29 Tier-wise Distribution of Newly Opened Bank Branches of SCBs .............
 | VI.31     | Soundness Indicators of AIFIs ................................................................................        |        142 |
 | VI.32     | Average Rate of Underwriting Commission of PDs ...................................................                    |        143 |
 | VI.33     | Capital and Risk-Weighted Asset Positions of SPDs ..................................................                  |        144 |
+
+
+
+<!-- PDF BATCH 16-20 -->
 
 ## List of Appendix Tables
 
@@ -542,6 +532,10 @@ Non-resident Ordinary
 NSE
 
 National Stock Exchange
+
+
+
+<!-- PDF BATCH 21-25 -->
 
 NSFI
 
@@ -825,6 +819,10 @@ I.12 Banks are required to maintain an investment fluctuation reserve (IFR) to p
 
 6 Transactors mean obligors in relation to facilities such as credit cards and charge cards where the balance has been repaid in full at each scheduled repayment date for the previous 12 months.
 
+
+
+<!-- PDF BATCH 26-30 -->
+
 the value of investments. A comprehensive review of the existing instructions on IFR is underway to address certain operational constraints faced by banks in maintaining the IFR.
 
 ## Non-Banking Financial Companies
@@ -953,6 +951,10 @@ I.38 Consumer protection is fundamental to strengthening trust and confidence in
 
 I.39 With a view to enhancing the effectiveness of the Internal Ombudsman (IO) mechanism in REs, the Reserve Bank issued Draft Master Direction in October 2025. It proposes a two-tier grievance redress structure within REs before escalating complaints to the IO, and empowerment of the IOs with compensation powers and access to the complainants. These measures will help in timely and meaningful resolution of customer grievances, improve service standards and consumer confidence.
 
+
+
+<!-- PDF BATCH 31-35 -->
+
 ## Ombudsman Scheme
 
 I.40 The Reserve Bank - Integrated Ombudsman Scheme (RB-IOS), 2021 provides customers of REs with a speedy, cost-free and expeditious alternate grievance redress mechanism. This Scheme was reviewed comprehensively, and a Draft Scheme was released in October 2025, based on operational experience, stakeholder feedback and global best practices. Further, the scope of the Scheme was extended to state co-operative banks and central co-operative banks, previously under NABARD, effective November 1, 2025. By allowing access to customers of rural co-operative banks, this Scheme will strengthen grievance redressal and boost customer confidence.
@@ -1030,6 +1032,10 @@ to grow faster at 3.6 per cent in 2025, before slowing down to 2.3 per cent in 2
 II.8 The general government gross debt for AEs is projected to increase marginally to 110.2 per cent of GDP in 2025 and further to 111.8 per cent of GDP in 2026. The EMDEs are also under rising fiscal strain with the debt-GDP ratio projected to rise to 72.7 per cent in 2025 and 75.8 per cent in 2026, due to higher interest payments and growth moderation (Chart II.3b).
 
 <!-- image -->
+
+
+
+<!-- PDF BATCH 36-40 -->
 
 Chart II.3: Current Account Balance and General Government Debt
 
@@ -1150,6 +1156,10 @@ II.26 At end-2024, the Irving Fisher Committee on Central Bank Statistics conduc
 24 FSB (2025). Monitoring Adoption of Artificial Intelligence and Related Vulnerabilities in the Financial Sector, October.
 
 25 BIS (2025). Governance and Implementation of Artificial Intelligence in Central Banks, IFC Report No. 18.
+
+
+
+<!-- PDF BATCH 41-45 -->
 
 effective deployment of AI requires robust governance frameworks, which are still evolving; and second, implementation of AI entails tradeoffs in IT infrastructure, as rising computational demands raise costs and cloud-based solutions while offering scalability, pose data security and sovereignty challenges. Another important issue relates to the choice of closed versus opensource AI models.
 
@@ -1341,6 +1351,10 @@ II.37 The list of top 100 global banks, based on their Tier 1 capital, continues
 
 36 Uysal, P., Lynch, K. &amp; Zer, I. (2025). US Reciprocal Tariff Announcement and European Bank Stock Performance. FEDS Notes, Washington: Board of Governors of the Federal Reserve System, August 26.
 
+
+
+<!-- PDF BATCH 46-50 -->
+
 <!-- image -->
 
 by China in 2024. (Chart II.9a). In terms of total assets, the distribution shifted between 2020 and 2024, with AEs holding a smaller share, and both China and other EMDEs increasing their respective shares (Chart II.9b). The trend of declining international business and growing focus on local markets continued for the largest banks in AEs.
@@ -1410,6 +1424,10 @@ III.7 Government bond yields softened during the year on the back of lower marke
 III.8 In the wake of evolving macro-financial conditions and increased global uncertainty, the Reserve Bank continued providing sufficient liquidity to the banking system. Several measures taken by the Reserve Bank since December 2024 resulted in significant improvement in system liquidity during the year. To further ease liquidity
 
 1 JP Morgan Government Bond Index-Emerging Markets in June 2024, Bloomberg Emerging Market Local Currency Government Index in January 2025 and FTSE Russell Emerging Markets Government Bond Index in September 2025.
+
+
+
+<!-- PDF BATCH 51-55 -->
 
 conditions and provide greater certainty to the banking system, the Reserve Bank in June 2025 announced a reduction in the CRR by 100 bps, from 4.0 per cent to 3.0 per cent of net demand and time liabilities (NDTL), which was implemented in a staggered manner between September and November 2025. 2
 
@@ -1490,6 +1508,10 @@ III.28 To update and streamline regulatory guidelines for investments by REs in 
 ## 3.12 Co-Lending Arrangements
 
 III.29 In order to provide a clear regulatory framework and broaden the scope of colending arrangements (CLAs) between REs, the Reserve Bank issued the Co-Lending Arrangements Directions on August 6, 2025. These Directions, effective January 1, 2026, aim to ensure prudential and conduct standards, transparency, and operational clarity. Key measures include: (i) expanding the co-lending framework to all loans - priority sector lending (PSL) or otherwise; (ii) reducing minimum loan
+
+
+
+<!-- PDF BATCH 56-60 -->
 
 retention by the originating lender from 20 per cent to 10 per cent; (iii) permitting default loss guarantee cover up to 5 per cent of outstanding loans; and (iv) mandating transfer of loan exposures within 15 days to avoid regulatory arbitrage. The Directions also strengthen borrower safeguards and market discipline. Collectively, these measures aim to encourage growth of the co-lending market while improving underwriting standards, ensuring transparency, and preventing misuse of co-lending structures.
 
@@ -1574,6 +1596,10 @@ III.46 UCBs are categorised into four tiers based on deposit size, with higher t
 ## 3.29 Climate Change Risks
 
 III.47 The regulatory landscape for climate change risks is evolving considering the global developments as well as the maturity of the domestic ecosystem. In this regard, the Reserve Bank is following a building block approach, focusing on development of specific capacities and technical expertise in the REs. Towards this end, extensive stakeholder discussions and capacity building initiatives were carried out over the year, which also included sensitising the board members and top management of the REs. The work regarding the operationalisation
+
+
+
+<!-- PDF BATCH 61-65 -->
 
 of Reserve Bank - Climate Risk Information System (RB-CRIS) 8 is underway.
 
@@ -1662,6 +1688,10 @@ operators, beneficiary name verification for real-time gross settlement (RTGS) a
 ## 8.1 Regulation of Payment Aggregator
 
 III.69 To enhance governance, transparency, and security of payment aggregators, the Reserve Bank issued the Master Direction on Regulation of Payment Aggregators (PAs) on September 15, 2025. This consolidates prior guidelines on PA and cross-border operations and establishes a comprehensive regulatory framework for all bank and non-bank entities engaged in payment aggregation in India. It establishes a rigorous authorisation process with eligibility criteria, minimum capital, governance standards, and fit-and-proper tests to allow only credible and financially sound entities to operate. PAs must conduct thorough KYC and AML checks on merchants to prevent fraud and protect consumer trust, while escrow account operations are reg-
+
+
+
+<!-- PDF BATCH 66-70 -->
 
 ulated to ensure proper usage, accounting, reporting, and liquidity management.
 
@@ -1771,6 +1801,10 @@ IV.9 Deposit growth of SCBs moderated in 2024-25, led by private and foreign ban
 
 <!-- image -->
 
+
+
+<!-- PDF BATCH 71-75 -->
+
 <!-- image -->
 
 ## 2.2 Assets
@@ -1872,6 +1906,10 @@ IV.17 The consolidated international claims of Indian banks on all the major eco
 ## 2.5 Off-Balance Sheet Operations
 
 IV.18 Growth in contingent liabilities of SCBs accelerated during 2024-25, primarily driven by growth in forward exchange contracts. The off-
+
+
+
+<!-- PDF BATCH 76-80 -->
 
 <!-- image -->
 
@@ -2009,6 +2047,10 @@ Note: The whiskers of the boxplots are indicative of maximum and minimum values.
 Source: Off-site returns, RBI.
 
 (Amount in ₹ crore)
+
+
+
+<!-- PDF BATCH 81-85 -->
 
 Table IV.6: Resources Raised by Banks through Private Placements
 
@@ -2174,6 +2216,10 @@ IV.36 The outstanding book value of assets acquired by ARCs increased by 57.9 pe
 IV.37 Frauds present multiple challenges by exposing financial institutions to reputational, operational and business risks, while also weakening customer trust. During 2024-25, based on date of reporting by banks, the total number of frauds decreased. However, the amount involved in frauds increased. This was mainly due to re-examination and reporting afresh of 122 fraud cases amounting to ₹18,336 crore after ensuring compliance with the
 
 <!-- image -->
+
+
+
+<!-- PDF BATCH 86-90 -->
 
 Table IV.12: Details of Financial Assets Securitised by Asset Reconstruction Companies
 
@@ -2371,6 +2417,10 @@ IV.42 Sectoral GNPA ratios of SCBs varied across sectors at end-March 2025. The 
 
 <!-- image -->
 
+
+
+<!-- PDF BATCH 91-95 -->
+
 PVBs. PSBs, however, had higher GNPA ratio across all sectors as compared to PVBs, except in the retail segment. At end-September 2025, the asset quality of SCBs continued to improve across all sectors (Chart IV.23).
 
 IV.43 Within retail loan segment, the GNPA ratio of consumer durables was the highest, followed by credit card receivables and education loans. Asset quality of education loans and housing loans improved, while it weakened for consumer durables, credit card receivables and vehicle loans at end-March 2025 (Chart IV.24a). In the services sector, asset quality improved across all sub-sectors, except for post and telecommunication segment, which recorded the highest GNPA ratio within the sector (Chart
@@ -2528,6 +2578,10 @@ IV.54 Unsecured lending, characterised by credit exposures not backed by tangibl
 
 <!-- image -->
 
+
+
+<!-- PDF BATCH 96-100 -->
+
 <!-- image -->
 
 A similar, though less pronounced, pattern was observed for PSBs (Chart IV.28b).
@@ -2672,6 +2726,10 @@ from 445.5 a year ago, driven by significant growth in payment infrastructure an
 ## 9.2 ATMs
 
 IV.67 During 2024-25, the total number of automated teller machines (ATMs) declined moderately, driven by reduction in off-site ATMs even while on-site ATMs increased. Increase in digitalisation of payments has reduced the customers' requirement of transacting with ATMs. PSBs accounted for the highest share in the total number of ATMs, followed by PVBs, and white label ATMs - those owned and operated by non-bank entities, at end-March 2025 (Table IV.24 and Appendix Table IV.12).
+
+
+
+<!-- PDF BATCH 101-105 -->
 
 Table IV.24: Number of ATMs*
 
@@ -2839,6 +2897,10 @@ IV.81 Financial Inclusion Plans (FIPs) capture banks' achievements on parameters
 25 DICGC has the mandate to recover the insurance pay-outs under Section 21 of DICGC Act, 1961 and rules framed thereunder.
 
 26 In order to meet the need to capture detailed and disaggregated financial inclusion data across the banking system, the coverage of Monitoring Progress of Financial Inclusion (MPFI) return has been extended to all the banks (except Tier 1 &amp; 2 urban co-operative banks). Subsequently, FIP return has been discontinued for submission by the banks from FY 2025-26.
+
+
+
+<!-- PDF BATCH 106-110 -->
 
 Notes: 1. 2024 commercial bank branch data for Germany pertains to 2023. 2. 2024 ATM data for Sweden, Germany and France pertains to 2023. Source: Financial Access Survey, 2025, IMF.
 
@@ -3024,6 +3086,10 @@ IV.93 Deposits accounted for 79 per cent of RRBs' total liabilities, although th
 | 2023-24      | 44,04,148         | 1,51,343          | 41,58,554                               | 1,38,241                                |
 | 2024-25      | 64,04,936         | 2,47,796          | 61,01,384                               | 2,33,711                                |
 | Source: RBI. | Source: RBI.      | Source: RBI.      | Source: RBI.                            | Source: RBI.                            |
+
+
+
+<!-- PDF BATCH 111-115 -->
 
 Table IV.31: Consolidated Balance Sheet of Regional Rural Banks
 
@@ -3349,6 +3415,10 @@ moderated during 2024-25. PBs' investments as a proportion of total assets incre
 
 IV.108 During 2024-25, scheduled commercial banks' balance sheet expanded at a healthy pace, driven by double digit growth in deposits and credit, albeit with some moderation. Profitability remained strong as reflected in an increase in their return on assets. Asset quality improved
 
+
+
+<!-- PDF BATCH 116-120 -->
+
 further as gross non-performing assets ratio declined to a multi-decadal low. Banks remain well-capitalised with leverage and liquidity ratios well above the regulatory minimum. These strong fundamentals provide a buffer against risks and support the banking sector's capacity to sustain credit expansion.
 
 IV.109 Going forward, banks will continue to face competition from non-bank sources in meeting the resource requirements of the commercial sector. Furthermore, rapidly changing technology and digitalisation could change the way people transact with banks for their savings and credit needs, while also exposing the banking system to newer risks including cyber risk. Strengthening risk assessment and improving operational efficiency through responsible technology adoption remain essential, with continued emphasis on financial inclusion, consumer education and protection. Robust corporate governance with strong risk management practices remains critical for banks' long-term success.
@@ -3445,6 +3515,10 @@ Table V.2: Balance Sheet of Urban Co-operative Banks
 | 7) Other Assets                     | 32,939 (10.2)       | 32,568 (9.6)     | 33,741 (8.7)     | 33,218 (8.3)     | 66,679 (9.4)     | 65,786 (8.9)     | 0.1                                 | -1.3                  |
 
 Source: Off-site returns, RBI.
+
+
+
+<!-- PDF BATCH 121-125 -->
 
 <!-- image -->
 
@@ -3638,6 +3712,10 @@ V.21. The improvement in asset quality during 2024-25 was broad based, with decr
 Note: Data for SCBs exclude regional rural banks.
 
 Sources: Off-site returns, RBI; and annual accounts of respective banks.
+
+
+
+<!-- PDF BATCH 126-130 -->
 
 <!-- image -->
 
@@ -3838,6 +3916,10 @@ Notes: 1. Figures in parentheses are the proportion to total liabilities/
 assets (in per cent).
 
 2. Components may not add up to the total due to rounding off. Source: NABARD.
+
+
+
+<!-- PDF BATCH 131-135 -->
 
 (CASA) deposits in total deposits moderated to 17.4 per cent (from 18.6 per cent a year ago), reflecting their limited branch network. On the contrary, the share of borrowings increased to 36.1 per cent from 35.5 per cent a year ago, driven by borrowings from NABARD.
 
@@ -4040,6 +4122,10 @@ V.50. The western region - with 29.4 per cent share in total number of PACS - do
 
 V.51. Over the years, concerted efforts are being made to transform PACS into modern, multifunctional entities. The Government of India is administering a centrally sponsored scheme from 2022-23 to 2026-27 for computerisation of PACS to onboard nearly 80,000 PACS onto a unified enterprise resource planning (ERP) platform to strengthen accounting, supervision, and linkage with DCCBs and StCBs. The Government of India also launched a plan to establish 2 lakh new multipurpose PACS, dairy and fishery cooperatives within five years. PACS are also being integrated into the 'Cooperative Stack' digital ecosystem to deliver a wide range of rural services and financial products. Further, convergence initiatives enabled PACS to function as common service centres, jan aushadhi kendras, and LPG and fertiliser distribution points, expanding their role in last-mile delivery. These measures aim to
 
+
+
+<!-- PDF BATCH 136-140 -->
+
 deepen financial inclusion, improve operational viability, and reposition PACS as comprehensive rural service institutions within the cooperative credit structure.
 
 ## 4.2. Long-term Rural Credit Co-operatives
@@ -4125,6 +4211,10 @@ VI.7 A noteworthy development on the regulatory front was the release of Digital
 - 6 Recognition of Self-Regulatory Organisation for NBFCs on October 03, 2025.
 
 7 Reserve Bank of India (Non-Banking Financial Companies-Credit Facilities) Directions, 2025.
+
+
+
+<!-- PDF BATCH 141-145 -->
 
 Table VI.1: Classification of NBFCs by Activity under the Scale-Based Regulatory Framework
 
@@ -4326,6 +4416,10 @@ VI.16 An examination of the credit extended by NBFCs at end-March 2025 suggests 
 
 <!-- image -->
 
+
+
+<!-- PDF BATCH 146-150 -->
+
 per cent of total credit followed by services at 15.4 per cent. Credit to services recorded a significant increase of 29.8 per cent followed by industry and retail loans exhibiting double digit growth during the same period. Power sector, which accounts for the largest share of credit to industry recorded some moderation in its share to 56.1 per cent at end-March 2025 from 58.2 per cent a year ago. Within services, sub-sectors like trade and loans to transport operators grew at rapid pace. Retail credit continued to grow at double digits albeit at a slower pace on the back of increase in risk weights on select retail loans in November 2023 13 . The growing role of NBFCs is reflected in their credit growth which surpassed that of banks in all segments except in case of agriculture and allied activities during the same period. At end-September 2025, aggregate credit growth continued to expand in double digits (Chart VI.6, Table VI.6, and Appendix Table VI.5).
 
 VI.17 In lending to the MSME sector, NBFCs are increasingly establishing their presence by
@@ -4452,6 +4546,10 @@ Source: Supervisory Returns, RBI.
 
 <!-- image -->
 
+
+
+<!-- PDF BATCH 151-155 -->
+
 <!-- image -->
 
 ## 2.4.3. Loan Sales and Securitisation
@@ -4572,6 +4670,10 @@ VI.35 NBFCs continued to remain wellcapitalised with capital to risk weighted as
 VI.36 At end-March 2025, 25 per cent of NBFCs' total assets were exposed to sensitive sectors 20 (Chart VI.21). NBFCs' exposure to real estate increased over time, reaching 26.8 per cent as a share of the total exposure to sensitive sectors during the same period. To reduce the cost of financing by NBFCs to high quality infrastructure projects, it was proposed to reduce the risk weights applicable on these projects 21 . Exposures to capital market declined during 2024-25, following internal limits under the SBR.
 
 <!-- image -->
+
+
+
+<!-- PDF BATCH 156-160 -->
 
 Chart VI.20: CRAR of NBFCs
 
@@ -4732,8 +4834,6 @@ Source: NHB.
 
 <!-- image -->
 
-□
-
 ## 4. All India Financial Institutions
 
 VI.45 All India financial institutions (AIFIs), viz., NABARD, SIDBI, NHB, EXIM Bank, and NaBFID are specialised institutions regulated and supervised by the Reserve Bank to facilitate financing for key sectors and activities. NABARD is the largest AIFI, accounting for half of the aggregate assets of AIFIs, supporting agriculture and rural development. SIDBI focuses on the MSME sector; NHB supports housing finance; EXIM Bank provides financial assistance to exporters and importers to promote international trade; and NaBFID is dedicated to supporting infrastructure projects (Chart VI.27).
@@ -4769,6 +4869,10 @@ VI.47 The consolidated balance sheet of AIFIs grew by 10.1 per cent at end-March
 VI.48 Growth in aggregate resource mobilisation by AIFIs decelerated to 10.4 per cent in 202425 from 27.8 per cent in 2023-24. The share of short-term resources increased significantly to 69.6 per cent in 2024-25 from 51.7 per cent in the preceding year, while the share of longterm resources declined to 28.4 per cent in
 
 25 The financial year for EXIM Bank, SIDBI, NABARD and NaBFID is from April to March, while for NHB it is from July to June.
+
+
+
+<!-- PDF BATCH 161-165 -->
 
 Table VI.14: AIFIs' Balance Sheet (At end-March)
 
@@ -5046,6 +5150,10 @@ Notes: 1. Data are provisional.
 
 Source: RBI.
 
+
+
+<!-- PDF BATCH 166-170 -->
+
 Table VI.23: Financial Performance of SPDs
 
 |                                |                                |                                |                                |                                |                                |
@@ -5218,6 +5326,10 @@ Notes: 1. Percentage variation could be slightly different as absolute numbers h
 
 Source: International Banking Statistics, RBI.
 
+
+
+<!-- PDF BATCH 171-175 -->
+
 ## Appendix Table IV.5: Consolidated International Claims of Banks: Residual Maturity and Sector
 
 (Amount in ₹ crore)
@@ -5371,6 +5483,10 @@ Notes: 1. Refers to frauds of ₹1 lakh and above.
 8. Directions on Fraud Risk Management dated July 15, 2024, the banks are reporting only those payment system related transactions which are concluded as fraud committed on bank(s).
 
 Source: RBI.
+
+
+
+<!-- PDF BATCH 176-180 -->
 
 ## Appendix Table IV.8: Kisan Credit Card Scheme: State-wise Progress (Continued)
 
@@ -5584,6 +5700,10 @@ Notes: 1. Total may not add up to 100 due to rounding off.
 
 Source: Off-site returns (domestic), RBI.
 
+
+
+<!-- PDF BATCH 181-185 -->
+
 Appendix Table IV.11: Overseas Operations of Indian Banks
 
 (At end-March)
@@ -5758,6 +5878,10 @@ Notes: 1. Figures in brackets give the details of SHGs covered under the Nationa
 2. Actual number of MFIs availing loans from banks may be less than the number of accounts, as most of MFIs avail loans several times from the same bank and also from more than one bank.
 
 Source: NABARD.
+
+
+
+<!-- PDF BATCH 186-190 -->
 
 Appendix Table IV.14: Major Financial Indicators of Regional Rural Banks - State-wise (Continued)
 
@@ -5992,6 +6116,10 @@ Note: Data for 2024-25 are provisional.
 
 Source: Off-site returns, RBI.
 
+
+
+<!-- PDF BATCH 191-195 -->
+
 ## Appendix Table V.2: Select Financial Parameters: Scheduled UCBs
 
 (At end-March 2025)
@@ -6198,6 +6326,10 @@ Notes: 1. Y-o-y variations could be slightly different because absolute numbers 
 
 Source: NAFSCOB.
 
+
+
+<!-- PDF BATCH 196-200 -->
+
 Appendix Table V.7: Select Indicators of Primary Agricultural Credit Societies - State-wise (Continued)
 
 (At end-March, 2024)
@@ -6396,6 +6528,10 @@ Source: NABARD.
 
 Source: NABARD.
 
+
+
+<!-- PDF BATCH 201-205 -->
+
 ## Appendix Table V.11: Financial Indicators of State Co-operative Agriculture and
 
 ## Rural Development Banks - State-wise
@@ -6572,6 +6708,10 @@ Notes: 1. Components may not add up to the exact total due to rounding off.
 2. Data for financial year 2022-23 are available in respect of 607 of 608 reported PCARDBs and data for financial year 2023-24 are available in respect of 608 of 609 reported PCARDBs.
 
 Source: NABARD.
+
+
+
+<!-- PDF BATCH 206-210 -->
 
 ## Appendix Table VI.1: Consolidated Balance Sheet of NBFCs
 
@@ -6870,6 +7010,10 @@ Notes: 1. Data are provisional. Percentage figures are rounded-off.
 
 Source: Supervisory returns, RBI.
 
+
+
+<!-- PDF BATCH 211-215 -->
+
 ## Appendix Table VI.6: Financial Performance of NBFC-UL
 
 (` crore)
@@ -7061,6 +7205,10 @@ Notes: 1. Data are provisional.
 2. Components may not add up to the total due to rounding off.
 
 Source: The respective Financial Institutions.
+
+
+
+<!-- PDF BATCH 216-220 -->
 
 ## Appendix Table VI.8: Financial Assistance Sanctioned and Disbursed by
 
