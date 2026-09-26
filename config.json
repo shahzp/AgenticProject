@@ -1,0 +1,23 @@
+{
+    "global_settings": {
+        "raw_doc_path": "rbiFaqAgent/Data/final_report_output.md",
+        "persist_directory_path": "rbiFaqAgent/VectorPersistence",
+        "collection_name": "rbi_docs_v1",
+        "embedding_model_name": "all-MiniLM-L6-v2",
+        "batch_size": 50
+    },
+    "strategies": {
+        "markdown_fixed_size": {
+            "chunk_size": 1000,
+            "chunk_overlap": 200
+        },
+        "semantic_chunking": {
+            "breakpoint_threshold_type": "percentile",
+            "buffer_size": 1
+        },
+        "recursive_character": {
+            "chunk_size": 500,
+            "chunk_overlap": 50
+        }
+    }
+}
