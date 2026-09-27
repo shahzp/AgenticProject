@@ -1,0 +1,8 @@
+{
+  "test": [
+    {
+      "input": "What are the Regulations for Stablecoins in Singapore and their key features?",
+      "expected_output": "MAS 2023 is the regulation and is applicable to single currency stablecoins pegged to singapore dollar or any G10 currency"
+    }
+  ]
+}

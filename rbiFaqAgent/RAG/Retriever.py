@@ -4,9 +4,10 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 
 from Utils.config_loader import load_rag_config
+from Utils.rag_settings import chunking_strategy
 
 
-def get_biencoder_retriever(cfg: dict):
+def build_retriever(cfg: dict):
     """
     Initializes and returns a Bi-Encoder vector store retriever.
 
@@ -60,7 +61,7 @@ def get_biencoder_retriever(cfg: dict):
     retriever = vector_store.as_retriever(
         search_type="similarity",
         search_kwargs={
-            "k": 5
+            "k": 3
         }
     )
 
@@ -136,6 +137,9 @@ def query_vector_store(
 
         print("-" * 70)
 
+def get_biencoder_retriever():
+    cfg = load_rag_config(strategy_name=chunking_strategy)
+    return build_retriever(cfg)
 
 if __name__ == "__main__":
 
