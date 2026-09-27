@@ -12,11 +12,16 @@ from rbiFaqAgent.RAG.MarkDown_chunking import extract_chunks_from_files
 from Utils.config_loader import load_rag_config
 from rbiFaqAgent.RAG.Vector_Audit import vector_audit
 from rbiFaqAgent.RAG.vector_Store import save_documents_to_chroma
+from Utils.rag_settings import chunking_strategy
 
 def main():
+    """
+    Called only once to index  and build RAG ingestion to vector DB
+    :return: None
+    """
     try:
         # CHOOSE STRATEGY: Swap this string to alter your entire pipeline setup instantly
-        ACTIVE_STRATEGY = "markdown_fixed_size"
+        ACTIVE_STRATEGY = chunking_strategy
 
         print(f"--- Booting Pipeline with Strategy: {ACTIVE_STRATEGY} ---")
 

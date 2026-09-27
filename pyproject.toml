@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "RBIFAQAdvisor"
 version = "0.1.0"
-description = "An advanced LCEL application"
+description = "An agentic RAG agent that can answer queries on policy documents"
 requires-python = ">=3.10"
 dependencies = [
     "langchain>=0.3.25",
@@ -18,5 +18,6 @@ dependencies = [
     "chromadb",
     "sentence-transformers",
     "docling",
-    "pypdf"
+    "pypdf",
+    "deepeval>=1.0.0"
 ]
